@@ -1,0 +1,13 @@
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\bin\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.exe
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\bin\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.deps.json
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\bin\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.runtimeconfig.json
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\bin\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.runtimeconfig.dev.json
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\bin\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.dll
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\bin\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.pdb
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\obj\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\obj\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.AssemblyInfoInputs.cache
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\obj\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.AssemblyInfo.cs
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\obj\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\obj\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.dll
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\obj\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.pdb
+C:\Users\Win10\source\repos\BootcampPoo2Eje4Y5\obj\Debug\netcoreapp3.1\BootcampPoo2Eje4Y5.genruntimeconfig.cache
